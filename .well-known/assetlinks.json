@@ -1,1 +1,14 @@
-
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.recetaclip.app",
+      "sha256_cert_fingerprints": [
+        "47:E1:D3:03:F5:7D:E5:8A:8F:B4:D4:9E:46:4B:0C:7A:6B:E3:E6:0D:49:EF:8E:02:31:6F:68:4E:18:B6:BE:D3"
+      ]
+    }
+  }
+]
